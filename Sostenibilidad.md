@@ -9,4 +9,4 @@ En clase hemos visto el concepto de la sostenibilidad, la diferencia entre ecolo
 ### Día 3:
 Hoy hemos hablado del ser humano como animal y que nos diferencia de los demás animales. Siempre he escuchado que lo único que nos diferencia de los animales es el saber que vamos a morir, pero en mi opinión nuestra diferencia es que nosotros somos animales morales. 
 Además se ha debatido si podriamos acabar con toda la vida del planeta, lo cúal resultaría difícil, ya que considero que nosotros acabariamos con nosotros mismos antes que con toda la vida en el planeta.
-Por último en grupo hemos decidido el tema del que realizaremos el trabajo principal.
+Por último en grupo hemos decidido el tema del que realizaremos en el trabajo principal.
