@@ -2,8 +2,6 @@
 
 ## Octubre
 ### 10/10/2025, Clase 4:
-Concepto capacidad de carga
-hay un limite para la poblacion
 El tema que hemos visto hoy en clase ha sido la capacidad de carga del ecosistema y como nuestro sustento tiene límites. Respondiendo a la pregunta de hoy creo que sí, que puede que tengamos un límite, aunque me gustaría creer que cuando ese límite esté cerca podamos encontrar una solución, como por ejemplo encontrar más recursos en otro planeta. Dicho esto, conociendo como nos comportamos los seres humanos siento que volveriamos a esa misma problemática en cuanto los recursos encontrados empiecen a escasear, así volviendo a empezar el mismo ciclo al que está condenado la humanidad.
 ### 03/10/2025, Clase 3:
 Hoy hemos hablado del ser humano como animal y que nos diferencia de los demás animales. Siempre he escuchado que lo único que nos diferencia de los animales es el saber que vamos a morir, pero en mi opinión nuestra diferencia es que nosotros somos animales morales.
