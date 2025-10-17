@@ -1,6 +1,9 @@
 # Sostenibilidad
 
 ## Octubre
+### 17/10/2025, Clase 5:
+Hoy en clase hemos hablado sobre si vivimos sólos y las relaciones intraespecíficas e interespecíficas. La pregunta de hoy ha sido: ¿Qué hacemos nosotros: cooperamos o competimos?
+Respondiendo a esto en mi opinión depende de la situación, el ser humano es un ser social y por eso cooperamos, pero a su misma vez por esa misma razón competimos. No necesariamente la competición tiene que ser algo malo, de hecho yo lo veo como algo bueno, ya que sin esta no innovariamos ni querriamos mejorar, simplemente nos quedariamos en nuestra zona de comfort y todo sería monotono.
 ### 10/10/2025, Clase 4:
 El tema que hemos visto hoy en clase ha sido la capacidad de carga del ecosistema y como nuestro sustento tiene límites. Respondiendo a la pregunta de hoy creo que sí, que puede que tengamos un límite, aunque me gustaría creer que cuando ese límite esté cerca podamos encontrar una solución, como por ejemplo encontrar más recursos en otro planeta. Dicho esto, conociendo como nos comportamos los seres humanos siento que volveriamos a esa misma problemática en cuanto los recursos encontrados empiecen a escasear, así volviendo a empezar el mismo ciclo al que está condenado la humanidad.
 ### 03/10/2025, Clase 3:
