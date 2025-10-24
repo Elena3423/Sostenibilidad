@@ -1,6 +1,8 @@
 # Sostenibilidad
 
 ## Octubre
+### 24/10/2025, Clase 6:
+Hoy hemos hablado sobre la estrategías de crecimiento de r y K y las diferentes especies que forman parte de una u otra. Nuestra pregunta de hoy ha sido el grupo al que pertenecemos los humanos, a la que respondería dejandome llevar por la lógica diciendo que nosotros siempre hemos formado parte del crecimiento K, además sabiendo que un ser humano no puede subsistir por sí solo hasta cierta edad.
 ### 17/10/2025, Clase 5:
 Hoy en clase hemos hablado sobre si vivimos sólos y las relaciones intraespecíficas e interespecíficas. La pregunta de hoy ha sido: ¿Qué hacemos nosotros: cooperamos o competimos?
 Respondiendo a esto en mi opinión depende de la situación, el ser humano es un ser social y por eso cooperamos, pero a su misma vez por esa misma razón competimos. No necesariamente la competición tiene que ser algo malo, de hecho yo lo veo como algo bueno, ya que sin esta no innovariamos ni querriamos mejorar, simplemente nos quedariamos en nuestra zona de comfort y todo sería monotono.
