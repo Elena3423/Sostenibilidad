@@ -1,6 +1,12 @@
 # Sostenibilidad
 
+
 ## Octubre
+### 31/10/2025, Clase 7:
+El tema de hoy ha sido la finitud del universo y los recursos limitados del planeta. Nuestro consumo crece, pero los recursos no, lo que nos deja en una situación complicada en la que debemos manejar su consumo para conseguir que el planeta viva lo máximo posible, aunque yo pienso que la mayoría de miembros de la sociedad son demasiado egoistas para sacrificar o compartir recursos que ayudarían a disminuir el gasto de estos. 
+Númerosas son las cadenas de comida que en vez de donar su comida a causas prefieren tirarla para que su economía no se vea afectada, esto al igual pasa con compañías de ropa que cada año desechan la ropa de la temporada anterior porque ya no sigue la nueva moda, lo que en mi opinión muestra ese egoismo y ansia por ganar dinero en vez de mirar por nuestro planeta y bienestar, y que cuando esos recursos comiencen a escasear esa economía dejará de importar.
+Además de todo esto hoy hemos introducido el segundo punto de nuestra página web, en el que algunos de mis compañeros han elegido una acción sostenible, incluida yo.
+
 ### 24/10/2025, Clase 6:
 Hoy hemos hablado sobre la estrategías de crecimiento de r y K y las diferentes especies que forman parte de una u otra. Nuestra pregunta de hoy ha sido el grupo al que pertenecemos los humanos, a la que respondería dejandome llevar por la lógica diciendo que nosotros siempre hemos formado parte del crecimiento K, además sabiendo que un ser humano no puede subsistir por sí solo hasta cierta edad.
 ### 17/10/2025, Clase 5:
