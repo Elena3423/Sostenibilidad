@@ -1,6 +1,16 @@
 # Sostenibilidad
 
+## Noviembre
+### 14/11/2025, Clase 8:
+Hoy hemos analizado el ciclo de vida, el cual su proceso consiste en conseguir materiales a traves de las fuentes de energía que nos ofrece el planeta.
+Con este proceso fabricamos diversos productos, como el teléfono movil del que hemos estado hablando en clase, y en este la cantidad de desechos que genera es mayor a la cantidad de materiales que se requieren para su fabricación (peso oculto).
+Mi opinión de todo esto es que aunque poco a poco en algunos de estos procesos se utilice la economía circular, en la cual se busca optimizar el uso de los recursos y no desecharlos, aún se sigue utilizando la economía lineal, que produce sin preocuparse en los desechos producidos y no cumple los principios de la sostenibilidad, lo que nos hace desperdiciar los recursos del planeta y no nos ayudará a preservarlo el mayor tiempo posible.
 
+La pregunta que le he realizado a mi IA de confianza es "Cuando se fabrica un teléfono móvil, ¿cuántos materiales hay que extraer para obtener su materia prima?", y su respuesta ha sido:
+
+![img.png](img.png)
+
+![CicloDeVida](https://www.csrconsulting.com.mx/wp-content/uploads/2022/07/ciclo-de-vida-ec-csr-consulting-1024x591.jpg)
 ## Octubre
 ### 31/10/2025, Clase 7:
 El tema de hoy ha sido la finitud del universo y los recursos limitados del planeta. Nuestro consumo crece, pero los recursos no, lo que nos deja en una situación complicada en la que debemos manejar su consumo para conseguir que el planeta viva lo máximo posible, aunque yo pienso que la mayoría de miembros de la sociedad son demasiado egoistas para sacrificar o compartir recursos que ayudarían a disminuir el gasto de estos. 
