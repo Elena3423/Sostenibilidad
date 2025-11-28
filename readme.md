@@ -1,6 +1,16 @@
 # Sostenibilidad
 
 ## Noviembre
+### 28/11/2025, Clase 9:
+Hoy hemos hablado de la economía lineal y circular. El modelo de la economía lineal se basa en la producción y en desechar sin pensar en la consecuencia de los residuos, y la economía circular se basa en la producción y reutilización de los desechos. 
+La economía circular es el método económico que busca la sostenibilidad, ya que en esta se busca y se prioriza la reutilización, y además el uso de materiales biodegradables.
+La pregunta de hoy es "¿Y a mí que me cuentas?, ¿enfoque colectivo o individual?", y mi respuesta es:
+
+En mi opinión a esta situación es que habría que darle un enfoque colectivo, ya que si como sociedad no nos movilizamos y cambiamos las cosas, individualmente no conseguiriamos los objetivos de la economía circular, aunque sí que pienso que yo como individuo también me tengo que concienciar. 
+
+![EconomíaCircular](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2beLtyknPDp4zncn8OFlALBxML2LfWzBZpkuZcXf1CwVp3YmpOik1NF_AuI0CpSMRxHY&usqp=CAU)
+
+
 ### 14/11/2025, Clase 8:
 Hoy hemos analizado el ciclo de vida, el cual su proceso consiste en conseguir materiales a traves de las fuentes de energía que nos ofrece el planeta.
 Con este proceso fabricamos diversos productos, como el teléfono movil del que hemos estado hablando en clase, y en este la cantidad de desechos que genera es mayor a la cantidad de materiales que se requieren para su fabricación (peso oculto).
