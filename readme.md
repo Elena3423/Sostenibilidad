@@ -1,5 +1,10 @@
 # Sostenibilidad
-
+## Diciembre
+### 05/12/2025, Clase 10:
+Hoy en clase hemos visto la huella ecológica y la huella de carbono que tiene nuestro planeta.
+La huella ecológica es la diferencia entre lo que consumimos contra lo que se puede regenerar y la huella de carbono son los gases de efecto invernadero que se generan.
+Para conocer la nuestra hemos realizado un test en la página de footprintcalculator.org. Mi resultado en la encuesta intentando responder de forma sincera ha sido este:
+![img_2.png](img_2.png)
 ## Noviembre
 ### 28/11/2025, Clase 9:
 Hoy hemos hablado de la economía lineal y circular. El modelo de la economía lineal se basa en la producción y en desechar sin pensar en la consecuencia de los residuos, y la economía circular se basa en la producción y reutilización de los desechos. 
