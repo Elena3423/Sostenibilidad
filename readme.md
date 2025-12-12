@@ -1,5 +1,14 @@
 # Sostenibilidad
 ## Diciembre
+### 12/12/2025, Clase 11:
+En la clase de hoy hemos hablado sobre el cambio climatico y todos sus impactos. 
+Cada año tenemos sus efectos más presentes, y en mi opinión en vez de ponerle freno e implantar medidas bruscas echamos más leña al fuego, por ejemplo con la sobreproducción de productos que no son de primera necesidad o el uso de la IA o criptomonedas, que provocan un efecto negativo en el cambio climático.
+Las dos preguntas de hoy son "¿Cuál es el principal emisor de CO2?" y ¿Qué hago yo como programador para combatir el cambio climático?".
+
+El principal emisor de CO2 es la quema de combustibles fósiles, que es con lo que generamos energía, el uso del transporte y los procesos industriales.
+Yo, como programadora, para combatir el cambio climático puedo realizar pequeñas acciones como reducir o eliminar el uso de IA para programar o optimizar mis programas para que gasten menos recursos.
+
+![CambioClimatico](https://www.gsaserviciosambientales.com/wp-content/uploads/2021/03/61934-scaled.jpg)
 ### 05/12/2025, Clase 10:
 Hoy en clase hemos visto la huella ecológica y la huella de carbono que tiene nuestro planeta.
 La huella ecológica es la diferencia entre lo que consumimos contra lo que se puede regenerar y la huella de carbono son los gases de efecto invernadero que se generan.
