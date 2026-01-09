@@ -1,4 +1,14 @@
 # Sostenibilidad
+## Enero
+### 09/01/2025, Clase 12:
+ 
+Hoy en clase hemos hablado de la contaminación y de los residuos. Hemos debatido el concepto de residuo, lo que me ha llevado a replantearme el concepto que yo tenía por residuo. ç
+Yo por residuo tenía como concepto cualquier cosa que tirasemos a la basura, pero ahora pienso que un residuo es algo que se descarta, lo que no implica que se convierta automaticamente en algo inútil, sino que en otro contexto o punto de vista pueda tener otro valor o utilidad.
+La pregunta de hoy es "¿Por qué cambias de móvil?".
+Mi respuesta es que unicamente cambio de móvil cuando este ya no funciona o funciona muy mal, y casi siempre que los cambio son de segunda mano. Mi último móvil fue cambiado porque se me cayó a una piscina y dejó de funcionar.
+
+![Contaminación](https://www.residuosprofesional.com/wp-content/uploads/2018/09/vertedero.jpg)
+
 ## Diciembre
 ### 12/12/2025, Clase 11:
 En la clase de hoy hemos hablado sobre el cambio climatico y todos sus impactos. 
