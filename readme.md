@@ -1,14 +1,17 @@
 # Sostenibilidad
 ## Enero
+### 23/01/2025, Clase 14:
+En clase hemos visto los planes de sostenibilidad empresarial. En un plan de sostenibilidad empresarial se busca la sostenibilidad de los intereses de esta. 
+La pregunta de hoy es: "¿Los planes de sostenibilidad son Greenwashing?". No creo que sean Greenwashing, pero lo que si creo es que algunas empresas lo aprovechan para hacerse un lavado de cara y que los consideren ecofriendly.
+
+![SostenibilidadEmpresarial](https://grupobinternational.com/wp-content/uploads/2022/04/5250872-1080x675.jpg)
 ### 16/01/2025, Clase 13:
-No asisti a clase. Mis compañeros me han dicho que el tema del día fueron los ODS. 
+No asistí a clase. Mis compañeros me han dicho que el tema del día fueron los ODS. 
 La pregunta del día fue: "¿Crees que se van a cumplir los ODS?".
 Creo que se podrían cumplir algunos, ya que muchos paises están involucrados en la participación de estos. Igualmente objetivos como acabar con la pobreza me parecen imposibles si seguimos viviendo en el sistema actual.
+
 ![ODS](https://intef.es/wp-content/uploads/2022/11/ODS.png)
-
-
 ### 09/01/2025, Clase 12:
- 
 Hoy en clase hemos hablado de la contaminación y de los residuos. Hemos debatido el concepto de residuo, lo que me ha llevado a replantearme el concepto que yo tenía por residuo. 
 Yo por residuo tenía como concepto cualquier cosa que tirasemos a la basura, pero ahora pienso que un residuo es algo que se descarta, lo que no implica que se convierta automaticamente en algo inútil, sino que en otro contexto o punto de vista pueda tener otro valor o utilidad.
 La pregunta de hoy es "¿Por qué cambias de móvil?".
