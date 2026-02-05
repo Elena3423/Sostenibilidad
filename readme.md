@@ -9,10 +9,10 @@
 
 ## Enero
 **Clases de enero:**
-- [Clase 14 — 23/01/2026](#clase-14--23012026)
-- [Clase 13 — 16/01/2026](#clase-13--16012026)
-- [Clase 12 — 09/01/2026](#clase-12--09012026)
-### 23/01/2026, Clase 14:
+- [Clase 14 - 23/01/2026](#clase-14---23012026)
+- [Clase 13 - 16/01/2026](#clase-13---16012026)
+- [Clase 12 - 09/01/2026](#clase-12---09012026)
+### Clase 14 - 23/01/2026:
 ### RESUMEN
 En clase hemos visto los planes de sostenibilidad empresarial. En un plan de sostenibilidad empresarial se busca la sostenibilidad de los intereses de esta.  
 ### PREGUNTA
@@ -22,7 +22,7 @@ No creo que sean Greenwashing, pero lo que sí creo es que algunas empresas lo a
 ### IMAGEN
 ![SostenibilidadEmpresarial](https://grupobinternational.com/wp-content/uploads/2022/04/5250872-1080x675.jpg)
 
-### 16/01/2026, Clase 13:
+### Clase 13 - 16/01/2026:
 ### RESUMEN
 No asistí a clase. Mis compañeros me han dicho que el tema del día fueron los ODS.  
 ### PREGUNTA
@@ -32,7 +32,7 @@ Creo que se podrían cumplir algunos, ya que muchos países están involucrados 
 ### IMAGEN
 ![ODS](https://intef.es/wp-content/uploads/2022/11/ODS.png)
 
-### 09/01/2026, Clase 12:
+### Clase 12 - 16/01/2026:
 ### RESUMEN
 Hoy en clase hemos hablado de la contaminación y de los residuos. Hemos debatido el concepto de residuo, lo que me ha llevado a replantearme el concepto que yo tenía por residuo.  
 ### REFLEXIÓN PERSONAL
@@ -47,10 +47,10 @@ Mi respuesta es que únicamente cambio de móvil cuando este ya no funciona o fu
 ## Diciembre
 
 **Clases de diciembre:**
-- [Clase 11 — 12/12/2025](#clase-11--12122025)
-- [Clase 10 — 05/12/2025](#clase-10--05122025)
+- [Clase 11 - 12/12/2025](#clase-11---12122025)
+- [Clase 10 - 05/12/2025](#clase-10---05122025)
 
-### 12/12/2025, Clase 11:
+### Clase 11 - 12/12/2025:
 ### RESUMEN
 En la clase de hoy hemos hablado sobre el cambio climático y todos sus impactos.  
 ### REFLEXIÓN PERSONAL
@@ -63,7 +63,7 @@ Yo, como programadora, para combatir el cambio climático puedo realizar pequeñ
 ### IMAGEN
 ![CambioClimático](https://www.gsaserviciosambientales.com/wp-content/uploads/2021/03/61934-scaled.jpg)
 
-### 05/12/2025, Clase 10:
+### Clase 10 - 05/12/2025:
 ### RESUMEN
 Hoy en clase hemos visto la huella ecológica y la huella de carbono que tiene nuestro planeta.  
 La huella ecológica es la diferencia entre lo que consumimos contra lo que se puede regenerar y la huella de carbono son los gases de efecto invernadero que se generan.
@@ -76,9 +76,9 @@ Mi resultado en la encuesta intentando responder de forma sincera ha sido este:
 
 ## Noviembre
 **Clases de Noviembre:**
-- [Clase 9 — 28/11/2025](#clase-9--28112025)
-- [Clase 8 — 14/11/2025](#clase-8--14112025)
-### 28/11/2025, Clase 9:
+- [Clase 9 - 28/11/2025](#clase-9---28112025)
+- [Clase 8 - 14/11/2025](#clase-8---14112025)
+### Clase 9 - 28/11/2025:
 ### RESUMEN
 Hoy hemos hablado de la economía lineal y circular. El modelo de la economía lineal se basa en la producción y en desechar sin pensar en la consecuencia de los residuos, y la economía circular se basa en la producción y reutilización de los desechos.  
 La economía circular es el método económico que busca la sostenibilidad, ya que en esta se busca y se prioriza la reutilización, y además el uso de materiales biodegradables.  
@@ -89,7 +89,7 @@ En mi opinión a esta situación es que habría que darle un enfoque colectivo, 
 ### IMAGEN
 ![EconomíaCircular](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2beLtyknPDp4zncn8OFlALBxML2LfWzBZpkuZcXf1CwVp3YmpOik1NF_AuI0CpSMRxHY&usqp=CAU)
 
-### 14/11/2025, Clase 8:
+### Clase 8 - 14/11/2025:
 ### RESUMEN
 Hoy hemos analizado el ciclo de vida, el cual su proceso consiste en conseguir materiales a través de las fuentes de energía que nos ofrece el planeta.  
 Con este proceso fabricamos diversos productos, como el teléfono móvil del que hemos estado hablando en clase, y en este la cantidad de desechos que genera es mayor a la cantidad de materiales que se requieren para su fabricación (peso oculto).  
@@ -104,12 +104,12 @@ La pregunta que le he realizado a mi IA de confianza es "Cuando se fabrica un te
 
 ## Octubre
 **Clases de Octubre:**
-- [Clase 7 — 31/10/2025](#clase-7--31102025)
-- [Clase 6 — 24/10/2025](#clase-6--24102025)
-- [Clase 5 — 17/10/2025](#clase-5--17102025)
-- [Clase 4 — 10/10/2025](#clase-4--10102025)
-- [Clase 3 — 03/10/2025](#clase-3--03102025)
-### 31/10/2025, Clase 7:
+- [Clase 7 - 31/10/2025](#clase-7---31102025)
+- [Clase 6 - 24/10/2025](#clase-6---24102025)
+- [Clase 5 - 17/10/2025](#clase-5---17102025)
+- [Clase 4 - 10/10/2025](#clase-4---10102025)
+- [Clase 3 - 03/10/2025](#clase-3---03102025)
+### Clase 7 - 31/10/2025:
 ### RESUMEN
 El tema de hoy ha sido la finitud del universo y los recursos limitados del planeta. 
 ### REFLEXIÓN PERSONAL
@@ -118,7 +118,7 @@ Numerosas son las cadenas de comida que en vez de donar su comida a causas prefi
 Además de todo esto hoy hemos introducido el segundo punto de nuestra página web, en el que algunos de mis compañeros han elegido una acción sostenible, incluida yo.
 ### IMAGEN
 ![Universo](https://estaticos-cdn.prensaiberica.es/clip/bc6576bc-0620-4516-bcc3-a99f35672eb8_alta-libre-aspect-ratio_default_0.jpg)
-### 24/10/2025, Clase 6:
+### Clase 6 - 24/10/2025:
 ### RESUMEN
 Hoy hemos hablado sobre las estrategias de crecimiento de r y K y las diferentes especies que forman parte de una u otra. 
 ### PREGUNTA
@@ -126,7 +126,7 @@ Nuestra pregunta de hoy ha sido el grupo al que pertenecemos los humanos, a la q
 ### IMAGEN
 ![Estrategiasrk](https://pereoliver.com/wp-content/uploads/2016/03/comparativa-rK-jpg.jpg)
 
-### 17/10/2025, Clase 5:
+### Clase 5 - 17/10/2025:
 ### RESUMEN
 Hoy en clase hemos hablado sobre si vivimos solos y las relaciones intraespecíficas e interespecíficas. 
 ### PREGUNTA
@@ -136,7 +136,7 @@ Respondiendo a esto en mi opinión depende de la situación, el ser humano es un
 ### IMAGEN
 ![Relaciones interespecifica](https://upload.wikimedia.org/wikipedia/commons/8/8e/Yellow-headed_caracara_%28Milvago_chimachima%29_on_capybara_%28Hydrochoeris_hydrochaeris%29.JPG)
 
-### 10/10/2025, Clase 4:
+### Clase 4 - 10/10/2025:
 ### RESUMEN
 El tema que hemos visto hoy en clase ha sido la capacidad de carga del ecosistema y como nuestro sustento tiene límites.
 ### PREGUNTA
@@ -144,7 +144,7 @@ Respondiendo a la pregunta de hoy creo que sí, que puede que tengamos un límit
 ### IMAGEN
 ![Ecosistema](https://www.lifeder.com/wp-content/uploads/2019/01/capacidad-de-carga-ecologica.jpg)
 
-### 03/10/2025, Clase 3:
+### Clase 3 - 03/10/2025:
 ### RESUMEN
 Hoy hemos hablado del ser humano como animal y qué nos diferencia de los demás animales. 
 ### REFLEXIÓN PERSONAL
@@ -155,14 +155,14 @@ Por último en grupo hemos decidido el tema del que realizaremos en el trabajo p
 ![Humanidad](https://lh3.googleusercontent.com/proxy/nvUkC8ubvLlui-wyIEN60Gl_JpuZK6tHI1pj2lpxfzRVBwMQKvxlJES9tBAKfxk-v9aZ2ZC3U1FUKF8JwV6gec_ZuROUwA4EKdmHf5TtWpXCfCPY4sWfHSFWFplhsvKph9ba)
 ## Septiembre
 **Clases de septiembre:**
-- [Clase 2 — 26/09/2025](#clase-2--26092025)
-- [Clase 1 — 19/09/2025](#clase-1--19092025)
-### 26/09/2025, Clase 2:
+- [Clase 2 - 26/09/2025](#clase-2---26092025)
+- [Clase 1 - 19/09/2025](#clase-1---19092025)
+### Clase 2 - 03/10/2025:
 ### RESUMEN
 En clase hemos visto el concepto de la sostenibilidad, la diferencia entre ecologismo y ecología, hemos creado un git y hablado en grupo para decidir qué página web realizar para el proyecto de la asignatura.
 
 
-### 19/09/2025, Clase 1:
+### Clase 1 - 19/09/2025:
 Hoy hemos visto como vamos a realizar la asignatura de sostenibilidad y he creado este repositorio de git para ir actualizandolo semanalmente.
 
 
