@@ -1,12 +1,19 @@
 # Sostenibilidad
 
 ## Índice
+- [Febrero](#febrero)
 - [Enero](#enero)
 - [Diciembre](#diciembre)
 - [Noviembre](#noviembre)
 - [Octubre](#octubre)
 - [Septiembre](#septiembre)
 
+## Febrero
+**Clases de febrero:**
+- [Clase 15 - 06/02/2026](#clases-15---06022026)
+### Clases 15 - 06/02/2026
+### RESUMEN
+Hoy es el último día de la actualización de la bitacora. Todos hemos realizado nuestras presentaciones sobre nuestras páginas web.
 ## Enero
 **Clases de enero:**
 - [Clase 14 - 23/01/2026](#clase-14---23012026)
